@@ -10,15 +10,31 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# 1. Acerca de mí
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hola mi nombre es Nicolás Correa, soy Ingeniero de Sistemas titulado y actualmente cursando un MBA y una maestría en ciencia de datos, cuento con más de 9 años de experiencia en el área de Business Intelligence, apasionado por los datos y por el descubrimiento de insights que generen un valor agregado a la organización, los cuales estén alineados a los objetivos estratégicos de la misma. En mis años de experiencia he abordado varios proyectos de diferentes sectores (pesca, minería, retail, salud, famaceútica, marketing, etc), los cuales me han llevado a tener un conocimiento amplio de todo el ciclo de vida del dato llevando conmigo las mejores prácticas para sacarle el mejor provecho. A continuación mostraré algunos de los proyectos los cuales he abordado, ciertamente por confidencialidad he reemplazado los datasets por datos demo y para todos los proyectos usaré un mismo logo para que sea neutral y transversal para todos.
 
-## Header 2
+# 2. Proyectos Power BI
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Sector Pesquero
+ 
+**a.) Área Legal**
+*   **Gestión Documentaria:**
+![alt text]((S_Pesquero) 1.- Área Legal - Gestión Documentaria.png)
+
+*   **Proceso Administrativo Sancionador:**
+![alt text]((S_Pesquero) 1.- Área Legal - Proceso Administrativo Sancionador.png)
+
+**a.) Área de Producción**
+*   **Producción de Plantas:**
+![alt text]((S_Pesquero) 2.- Área de Producción - Plantas de Producción - Parte1.png)
+
+![alt text]((S_Pesquero) 2.- Área de Producción - Plantas de Producción - Parte2.png)
+
+![alt text]((S_Pesquero) 2.- Área de Producción - Plantas de Producción - Parte3.png)
+
+*   **Producción de Omega:**
+![alt text]((S_Pesquero) 2.- Área de Producción - Producción y Costos por fases de Omega.png)
 
 ### Header 3
 
